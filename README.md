@@ -71,10 +71,7 @@ JavaScript • Java • HTML5 • CSS3 • Git • GitHub
 
 # 📫 Contato
 
-<a href="mailto:tainara-alves@hotmail.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-
+<a href = "mailto:tainara-alves@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tainara-alves/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
